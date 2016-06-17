@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ManuMental]]></title>
         <description><![CDATA[ManuMental]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/manumental/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 05:28:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 17 Jun 2016 07:24:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/manumental/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc201cca-e25f-424b-827c-b51861e3984e.jpg">]]></description>
+            <link>https://thegrid.ai/manumental/ok-here-goes-nothing/index.html</link>
+            <guid isPermaLink="false">3f634072-0c4c-4334-ad92-0e38c12ab89a</guid>
+            <pubDate>Fri, 17 Jun 2016 07:23:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f865c1d5-4c82-43a5-a047-e59b75f69e33.gif">]]></description>
-            <link>undefined5e71dce6-b662-4103-b1b7-97e57977e15a/index.html</link>
+            <link>https://thegrid.ai/manumental/5e71dce6-b662-4103-b1b7-97e57977e15a/index.html</link>
             <guid isPermaLink="false">5e71dce6-b662-4103-b1b7-97e57977e15a</guid>
             <pubDate>Fri, 17 Jun 2016 05:27:59 GMT</pubDate>
         </item>
