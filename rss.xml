@@ -4,7 +4,7 @@
         <description><![CDATA[ManuMental]]></description>
         <link>https://thegrid.ai/manumental/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 07:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2016 07:32:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/manumental/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,17 +15,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc201cca-e25f-424b-827c-b51861e3984e.jpg">]]></description>
+            <link>https://thegrid.ai/manumental/ok-here-goes-nothing/index.html</link>
+            <guid isPermaLink="false">3f634072-0c4c-4334-ad92-0e38c12ab89a</guid>
+            <pubDate>Fri, 17 Jun 2016 07:32:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d08351ca-803a-421d-8f16-d25b3180ad90.jpg">]]></description>
             <link>https://thegrid.ai/manumental/wtf-why-is-this-so-wack/index.html</link>
             <guid isPermaLink="false">399842f5-8843-4175-8366-970941886f22</guid>
             <pubDate>Fri, 17 Jun 2016 07:29:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc201cca-e25f-424b-827c-b51861e3984e.jpg">]]></description>
-            <link>https://thegrid.ai/manumental/ok-here-goes-nothing/index.html</link>
-            <guid isPermaLink="false">3f634072-0c4c-4334-ad92-0e38c12ab89a</guid>
-            <pubDate>Fri, 17 Jun 2016 07:23:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
